@@ -1,0 +1,32 @@
+<resources>
+    <string-array name="game_array">
+        <item>Valorant</item>
+        <item>BGMI</item>
+    </string-array>
+
+    <string-array name="game1_tournament_array">
+        <item>VCT-1</item>
+        <item>VCT-2</item>
+    </string-array>
+
+    <string-array name="game1_tournament_descriptions">
+        <item>Top three teams: \n1. LOUD \n2. Optic Gaming\n3. DRX</item>
+        <item>Top three teams:\n1. Evil Geniuses\n2. Paper Rex\n3. LOUD</item>
+    </string-array>
+
+    <string-array name="game2_tournament_array">
+        <item>BGIS-1</item>
+        <item>BGIS-2</item>
+        <item>BGIS-3</item>
+        <item>BGMS-1</item>
+        <item>BGMS-2</item>
+    </string-array>
+
+    <string-array name="game2_tournament_descriptions">
+        <item>Top three teams: \n1. Skylightz Gaming \n2. TSM \n3. Team XO</item>
+        <item>Top three teams: \n1. Gladiators Esports \n2. Big Brothers Esports \n3. TeamXspark</item>
+        <item>Top three teams: \n1. TeamXspark \n2. Global Esports \n3. Reckoning Esports</item>
+        <item>Top three teams: \n1. 7Sea Esports \n2. Orangutan \n3. Enigma Gaming</item>
+        <item>Top three teams: \n1. Blind Esports \n2. Gladiators \n3. Team Insane</item>
+    </string-array>
+</resources>

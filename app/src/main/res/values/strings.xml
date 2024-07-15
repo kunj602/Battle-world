@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battleworld</string>
+    <string name="select_game_label">Select a game:</string>
+    <string name="tournament_label">Select a tournament:</string>
+    <string name="winner_button">Winner</string>
+    <string name="default_text">TextView</string>
+</resources>
